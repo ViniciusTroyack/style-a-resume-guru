@@ -5,9 +5,9 @@ Para esta atividade, você precisará atualizar as regras em `style.css` para co
 A única coisa que nós fizemos por você neste nível foi o alinhamento. Você terá que descobrir todo o resto por conta própria!
 
 ## Fontes
-O body e tag html usam `'Lato'`, `'Helvetica'`, `'Arial'`, e `sans-serif` por padrão.
+Para as tags body e html, você pode utilizar as seguintes fontes: `'Lato'`, `'Helvetica'` e `'Arial'`, juntamente com o `sans-serif` por padrão. Exemplo: `<nome-fonte>, **sans-serif**`
 
-Outros elementos como título você pode utilizar qualquer uma dessas fontes `'Rokkitt'`, `'Helvetica'`, `'Arial'`, e `sans-serif`.
+Para os títulos você pode utilizar qualquer uma dessas fontes `'Rokkitt'`, `'Helvetica'`, `'Arial'`, e `sans-serif`.
 
 ## Cores
 As seguintes cores serão usadas pelo documento para texto e fundos:
@@ -22,7 +22,6 @@ As seguintes cores serão usadas pelo documento para texto e fundos:
 - bordas entre cada seção tem 1px de espessura
 
 ## Dicas de como posicionar: 
-
 Por enquanto vocês podem usar os atributos CSS: float e width (Vocês aprenderão outras formas).
 - O atributo width define uma largura da tag.
 - E atributo float define por onde o elemento pode flutuar, no nosso caso, sejá para esquerda, ou para direita. 
