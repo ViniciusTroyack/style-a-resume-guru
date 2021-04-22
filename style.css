@@ -10,6 +10,10 @@
 img[alt="Alan Smith"]{
 	border-radius: 50%;
 }
+#mainArea{
+	width: 90%;
+	margin-left: 40px;
+}
 #mainArea > p{
 	margin-top: 2em;
 }
@@ -19,6 +23,7 @@ img[alt="Alan Smith"]{
 
 #name > h1{
 	margin-bottom: 0em;
+	font-size: 3em;
 }
 
 #name > h2{
@@ -42,12 +47,13 @@ img[alt="Alan Smith"]{
 .sectionContent {
 	float: right;
 	width: 72.5%;
+	color: #444444;
 
 }
 
 #top{
 	font-family: 'rokkitt';
-	color: #444444;
+	color: #181818;
 	width: 45%;	
 	margin-left: 30%;
 	background-color: #f3f3f3;	
@@ -63,18 +69,21 @@ img[alt="Alan Smith"]{
 .mainDetails{
 	border-bottom-style: solid;
 	border-bottom-color: #cf8a05;
-	border-bottom-width: 3px;
+	border-bottom-width: 2px;
 }
 
 .sectionborder{
 	border-bottom-style: solid;
 	border-bottom-color: #dedede;
 	border-bottom-width: 2px;
+	width: 90%;
 }
 p{
 	margin-bottom: 2em;
 	margin-top: 0em;
+	width: 90%;
 }
+
 h2{
 	margin-bottom: 0em;
 	font-family: 'rokkitt';
