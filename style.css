@@ -7,21 +7,82 @@
 	float: left;
 	margin-right: 30px;
 }
-
+img[alt="Alan Smith"]{
+	border-radius: 50%;
+}
+#mainArea > p{
+	margin-top: 2em;
+}
 #name {
 	float: left;
 }
 
+#name > h1{
+	margin-bottom: 0em;
+}
+
+#name > h2{
+	margin-top: 0em;
+	font-weight: 100;
+}
+
 #contactDetails {
 	float: right;
+	
 }
 
 .sectionTitle {
 	float: left;
 	width: 25%;
+	color: #cf8a05;
+	font-style: italic;
+	font-family: 'rokkitt';	
 }
 
 .sectionContent {
 	float: right;
 	width: 72.5%;
+
+}
+
+#top{
+	font-family: 'rokkitt';
+	color: #444444;
+}
+#top.h2{
+	color: blueviolet;
+}
+
+.subDetails{
+	font-family: 'Rokkitt';
+	font-size: 1em;
+	color: #444444;
+	font-style: italic;
+	margin: 0em;
+}
+.mainDetails{
+	border-bottom-style: solid;
+	border-bottom-color: #cf8a05;
+	border-bottom-width: 3px;
+}
+
+.sectionborder{
+	border-bottom-style: solid;
+	border-bottom-color: #dedede;
+	border-bottom-width: 2px;
+}
+p{
+	margin-bottom: 2em;
+	margin-top: 0em;
+}
+h2{
+	margin-bottom: 0em;
+	font-family: 'rokkitt';
+}
+.keySkills{
+	height: 100px;
+}
+.keySkills > li{
+	width: 10%;
+	display: inline-block;
 }
