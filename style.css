@@ -48,9 +48,9 @@ img[alt="Alan Smith"]{
 #top{
 	font-family: 'rokkitt';
 	color: #444444;
-}
-#top.h2{
-	color: blueviolet;
+	width: 45%;	
+	margin-left: 30%;
+	background-color: #f3f3f3;	
 }
 
 .subDetails{
@@ -80,9 +80,5 @@ h2{
 	font-family: 'rokkitt';
 }
 .keySkills{
-	height: 100px;
-}
-.keySkills > li{
-	width: 10%;
-	display: inline-block;
+	column-count: 3;
 }
