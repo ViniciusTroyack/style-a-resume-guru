@@ -69,13 +69,13 @@ img[alt="Alan Smith"]{
 .mainDetails{
 	border-bottom-style: solid;
 	border-bottom-color: #cf8a05;
-	border-bottom-width: 2px;
+	border-bottom-width: 1px;
 }
 
 .sectionborder{
 	border-bottom-style: solid;
 	border-bottom-color: #dedede;
-	border-bottom-width: 2px;
+	border-bottom-width: 1px;
 	width: 90%;
 }
 p{
